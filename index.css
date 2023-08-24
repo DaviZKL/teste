@@ -1,6 +1,26 @@
 .h
 {
+    background-color: #777777;
+    width: 200px;
+    text-align: center;
+    border-radius: 16px;
+    padding: 7px 5px;
+    text-decoration: none;
+    color:#303030;
+    position: relative;
+    left: 235px;
+    display: flexbox;
+}
+body
+{
+    background-color: #303030;
+}
+img
+{
+    width: 200px;
+    position: relative;
+    justify-content: center;
+    padding-left: 240px;
+    padding-top: 1px;
     display: flex;
-    justify-content: space-evenly;
-
 }
